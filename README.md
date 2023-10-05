@@ -1,2 +1,2 @@
-# rps_image_classification
+# IDCamp Dicoding Machine Learning Final Project
 Image Classification Project of Hand Gesture (Rock, Paper, Scissors)
