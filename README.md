@@ -3,7 +3,7 @@ Image Classification Project of Hand Gesture (Rock, Paper, Scissors)
 This project is part of my Data Scientist learning path in IDCamp-Dicoding.
 
 ## Project Goal
-The project goal is to classificate image of hand gesture by three classess (rock, paper, and scissors) using Tensorflow library and created in Google Colaboratory.
+The project goal is to classificate image of hand gesture by three classess (rock, paper, and scissors). The classification model was developed using Tensorflow library and created in Google Colaboratory.
 
 ## There are several steps in workng on this project:
 - Import Data and Library needed
